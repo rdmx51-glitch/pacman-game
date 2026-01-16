@@ -1,0 +1,6 @@
+Devil:3000000
+You:123
+ME:124
+Misha:15
+WOWWIE:4
+AD:2
