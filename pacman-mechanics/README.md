@@ -4,8 +4,8 @@ A classic arcade game "Pac-Man" implemented in Python using the Raylib library.
 
 ## Features
 
-- **Move** – arrow keys (↑w ↓s ←a →d)  
-- **Ghosts** – three types with different chase strategies  
+- **Move** – keys (↑w ↓s ←a →d)  
+- **Ghosts** – types with different chase strategies  
 - **Scared mode** – ghosts turn blue after eating a big dot  
 - **Audio** – sound effects and background music  
 - **High scores** – saved locally in `scores.txt`
